@@ -20,6 +20,7 @@ C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\JwtAspN
 C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\JwtAspNet.AssemblyInfo.cs
 C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\JwtAspNet.csproj.CoreCompileInputs.cache
 C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\JwtAspNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\JwtAspNet.sourcelink.json
 C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\scopedcss\bundle\JwtAspNet.styles.css
 C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\lsilva\Documents\Leandro\lab_leandro\JwtAspNet\obj\Debug\net9.0\staticwebassets.development.json
